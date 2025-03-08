@@ -1,4 +1,4 @@
-# Machine Learning Basics 🚀  
+# Noob Machine Learning Practise 🚀  
 
 This repository contains fundamentals and beginner level  **Machine Learning** coding, and examples which i have done.  
 
