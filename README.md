@@ -1,6 +1,6 @@
-# Noob Machine Learning Practise 🚀  
+# Noob Machine Learning Practise 🚀
 
-This repository contains fundamentals and beginner level  **Machine Learning** coding, and examples which i have done.  
+This repository contains fundamentals and beginner-level **Machine Learning** coding examples that I have worked on.
 
 ## 🛠 Technologies Used  
 - Python 🐍  
@@ -9,3 +9,4 @@ This repository contains fundamentals and beginner level  **Machine Learning** c
 - Scikit-learn  
 - Matplotlib  
 
+Here is the link to my first ML project:[Click here](https://github.com/DhawalaRajakaruna/ML-Practise/blob/main/NumberPrediction.ipynb)
